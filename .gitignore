@@ -9,6 +9,5 @@
 .idea
 .settings
 target
-dic
 /bin/
 /dist/
