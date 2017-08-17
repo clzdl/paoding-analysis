@@ -1,8 +1,9 @@
 #Paoding分词器基于Lucene6.6.0
 
 
-原作者： http://git.oschina.net/zhzhenqin/paoding-analysis 
-原项目见 https://code.google.com/p/paoding/
+原作者： http://git.oschina.net/zhzhenqin/paoding-analysis
+ 
+原项目: https://code.google.com/p/paoding/
 
 
 #编译说明
