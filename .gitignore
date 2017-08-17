@@ -1,0 +1,14 @@
+*.class
+.project
+.classpath
+*.iml
+*.war
+*.ear
+
+
+.idea
+.settings
+target
+dic
+/bin/
+/dist/
